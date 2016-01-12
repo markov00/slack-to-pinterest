@@ -127,5 +127,5 @@ app.post('/pinlist', function (req, res) {
 });
 
 app.listen(PORT, function () {
-  console.log('pinterest-to-slack app listening on port:' + PORT);
+  console.log('pinterest-to-slack app listening on port:' + config.PORT);
 });
