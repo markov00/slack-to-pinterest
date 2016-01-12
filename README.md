@@ -2,7 +2,6 @@
 
 Pin URLs to specific board from Slack.
 
-----
 
 ##About
 
@@ -18,9 +17,13 @@ You have two main endpoint:
 
 ##Configuration
 
+Install dependencies
+
+    npm install
+
 Create two slack commands following the "getting started" guide [here](https://api.slack.com/slash-commands). I use /pinpin and /pinlist.
 
-Point the commands to your server endpoints like: http://your-server-name:port/pinpin
+Point the commands to your server endpoints like: ``http://your-server-name:port/pinpin``
 
 Configure ``config.json`` with the correct tokens: pinterest access token, commands secure token
 

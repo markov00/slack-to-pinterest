@@ -1,13 +1,10 @@
 {
-  "name": "pinterest-slack",
+  "name": "pinterest-to-slack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pin URLs to specific board from Slack.",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "author": "Marco Vettorello <vettorello.marco@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.14.2",
     "express": "^4.13.3",
