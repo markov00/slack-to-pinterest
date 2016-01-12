@@ -22,6 +22,7 @@ Create two slack commands following the "getting started" guide [here](https://a
 
 Point the commands to your server endpoints like: http://your-server-name:port/pinpin
 
+Configure ``config.json`` with the correct tokens: pinterest access token, commands secure token
 
 ##License MIT
 
