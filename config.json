@@ -1,0 +1,6 @@
+{
+"PORT":3000,
+"PINTEREST_TOKEN":"<pinterest access token>",
+"PINPIN_TOKEN":"</pinpin command secure token>",
+"PINLIST_TOKEN":"</pinlist command secure token>"
+}
